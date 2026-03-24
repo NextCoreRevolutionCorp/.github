@@ -31,6 +31,12 @@
 | [dagc-frontend](https://github.com/NextCoreRevolutionCorp/dagc-frontend) | React + Vite | dagc-frontend |
 | [dagc-backend](https://github.com/NextCoreRevolutionCorp/dagc-backend) | Django + DRF | ⚠️ En progreso |
 
+### Sitios públicos
+
+| Repo | Descripción |
+|---|---|
+| [frontend-nextcore](https://github.com/NextCoreRevolutionCorp/frontend-nextcore) | Landing page y sitio de marketing de NCR — proyecto independiente |
+
 ### Referencia (solo lectura)
 
 | Repo | Descripción |
