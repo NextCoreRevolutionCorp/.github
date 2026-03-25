@@ -12,14 +12,6 @@
 
 Construimos plataformas de gestión para instituciones y empresas chilenas — con Django, React y un SDK modular que hace que cada nuevo proyecto arranque en días, no meses.
 
-## Proyectos
-
-| Proyecto | Descripción |
-|---|---|
-| **DAGC · UdeC** | Portal de contrataciones — Dirección de Asuntos y Gestión de Contratos |
-| **DIRPER · UdeC** | Portal de gestión de contratos de personal |
-| **NCR SaaS** | Plataforma de procurement multi-tenant |
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
